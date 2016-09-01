@@ -181,3 +181,4 @@
 [submodule "bundle/vim-tmux-focus-events"]
 	path = bundle/vim-tmux-focus-events
 	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
+  ignore = untracked
